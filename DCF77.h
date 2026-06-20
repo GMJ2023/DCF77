@@ -157,10 +157,10 @@ public:
    */
   ~DCF77();
 
-  // ========== INITIALIZATION ==========
+  // ========== INITIALISATION ==========
 
   /**
-   * @brief Initialize GPIO and internal state
+   * @brief Initialise GPIO and internal state
    * @param pullup If true, configure signal pin with internal pullup
    * @return true if successful
    */
