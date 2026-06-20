@@ -141,7 +141,7 @@ void loop() {
 
 ## API Reference
 
-### Initialization
+### Initialisation
 
 ```cpp
 DCF77(int signalPin, int enablePin = -1);
@@ -496,7 +496,7 @@ For issues, questions, or suggestions:
 
 ## About Digconn Systems
 
-This library is created by **Digconn Systems Limited**, specializing in embedded hardware for motorhomes, caravans and leisure vehicles.
+This library is created by **Digconn Systems Limited**, specialising in embedded hardware for motorhomes, caravans and leisure vehicles.
 
 **Shop:** [digconn-shop.bigcartel.com](https://digconn-shop.bigcartel.com)   
 **Location:** Ellesmere Port, UK
