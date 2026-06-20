@@ -1,0 +1,99 @@
+# Compiler & Build
+*.o
+*.a
+*.so
+*.elf
+*.exe
+*.hex
+*.bin
+*.elf
+*.elf.map
+build/
+dist/
+*.out
+
+# Arduino IDE
+*.pde
+.pioenvs/
+.piolibdeps/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.vscode/settings.json
+.vscode/launch.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+platformio.ini.bak
+
+# OS Files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+.directory
+ehthumbs.db
+Desktop.ini
+
+# Editor Temps
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*#
+
+# Python (if tests included)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Doxygen
+docs/html/
+docs/latex/
+docs/man/
+docs/rtf/
+
+# Debugging
+*.gdb
+*.dbg
+core
+core.*
+
+# Backup/Archive
+*.zip
+*.7z
+*.tar.gz
+*.rar
+*.bak.*/
+
+# Temporary files
+.tmp/
+temp/
+tmp/
+
+# Secrets
+.env
+*.key
+*.pem
+secrets.txt
+
