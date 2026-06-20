@@ -498,6 +498,5 @@ For issues, questions, or suggestions:
 
 This library is created by **Digconn Systems Limited**, specializing in embedded hardware for motorhomes, caravans and leisure vehicles.
 
-**Shop:** [digconn-shop.bigcartel.com](https://digconn-shop.bigcartel.com)  
-**Project:** [BigTime v1 ePaper Clock](https://github.com/GMJ2023/BigTime)  
+**Shop:** [digconn-shop.bigcartel.com](https://digconn-shop.bigcartel.com)   
 **Location:** Ellesmere Port, UK
