@@ -491,3 +491,13 @@ For issues, questions, or suggestions:
 **Version**: 1.0.0  
 **Last Updated**: 2025-01-15  
 **Maintainer**: Digconn Systems Limited
+
+---
+
+## About Digconn Systems
+
+This library is created by **Digconn Systems Limited**, specializing in embedded hardware for motorhomes, caravans and leisure vehicles.
+
+**Shop:** [digconn-shop.bigcartel.com](https://digconn-shop.bigcartel.com)  
+**Project:** [BigTime v1 ePaper Clock](https://github.com/GMJ2023/BigTime)  
+**Location:** Ellesmere Port, UK
